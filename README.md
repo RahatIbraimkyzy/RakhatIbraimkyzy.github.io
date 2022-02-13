@@ -1,2 +1,2 @@
-https://rahatibraimkyzy.github.io/RakhatIbraimkyzy.github.io/Portfolio/
-Deployed link https://rahatibraimkyzy.github.io/RakhatIbraimkyzy.github.io/Portfolio/index.html
+#Deployed Link: 
+https://rahatibraimkyzy.github.io/RakhatIbraimkyzy.github.io/Portfolio/index.html
